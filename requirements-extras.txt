@@ -1,0 +1,6 @@
+# These deps support running the jupyter notebooks.
+opencv-python==3.4.3.18
+numpy==1.15.4
+git+https://github.com/romack77/ransac.git@173ef6f#egg=ransac
+jupyter==1.0.0
+matplotlib==2.2.3

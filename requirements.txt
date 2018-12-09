@@ -1,0 +1,4 @@
+opencv-python==3.4.3.18
+numpy==1.15.4
+git+https://github.com/romack77/ransac.git@173ef6f#egg=ransac
+

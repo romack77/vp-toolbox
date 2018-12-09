@@ -1,0 +1,17 @@
+.idea
+.ipynb_checkpoints
+.vagrant
+Vagrantfile
+bootstrap.sh
+__pycache__
+*~
+
+.venv
+build
+vp.egg-info
+
+# Datasets
+*.jpg
+toulouse_dataset
+YorkUrbanDB
+sample
