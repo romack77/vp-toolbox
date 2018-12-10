@@ -54,7 +54,7 @@ or the number of RANSAC iterations, reduces the amount of work.
 
 
 Results can be seen in this IPython notebook:
-[score_dataset.ipynb](https://github.com/romack77/MeasureIt/blob/master/notebooks/score_dataset.ipynb).
+[score_dataset.ipynb](https://github.com/romack77/vp-toolbox/blob/master/notebooks/score_dataset.ipynb).
 
 ## Usage
 
@@ -68,7 +68,7 @@ for vp in vp_to_lines:
     print('Vanishing point found at: (%s, %s)' % (vp[0], vp[1])
 ```
 Richer examples can be found in this IPython notebook:
-[score_dataset.ipynb](https://github.com/romack77/MeasureIt/blob/master/notebooks/score_dataset.ipynb).
+[score_dataset.ipynb](https://github.com/romack77/vp-toolbox/blob/master/notebooks/score_dataset.ipynb).
 
 ## Installation
 
